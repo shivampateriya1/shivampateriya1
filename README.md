@@ -1,4 +1,6 @@
 <!-- ### Hi there 👋 -->
+![](https://visitor-badge.glitch.me/badge?page_id=shivampateriya1.shivampateriya1)
+<br />
 ---
 <h1 align="center">Hi <img src="https://github.com/shivampateriya1/shivampateriya1/blob/main/Wave.gif" height="55px" width="55px">, I am Shivam Pateriya</h1>
 ---
