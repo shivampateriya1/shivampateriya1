@@ -1,7 +1,6 @@
 <!-- ### Hi there 👋 -->
 ---
 <h1 align="center">Hi <img src="https://github.com/shivampateriya1/shivampateriya1/blob/main/Wave.gif" height="55px" width="55px">, I am Shivam Pateriya</h1>
-
 ---
 
 <img align="center" src="https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif" />
