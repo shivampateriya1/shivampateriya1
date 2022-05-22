@@ -9,11 +9,11 @@
 <br>
 <hr>
 
-![Shivam GitHub stats](https://github-readme-stats.vercel.app/api?username=shivampateriya1&theme=city_lights&show_icons=true)
+![Shivam GitHub stats](https://github-readme-stats.vercel.app/api?username=shivampateriya1&theme=default&show_icons=true)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivampateriya1&theme=calm)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivampateriya1&langs_count=11)](https://github.com/shivampateriya1/github-readme-stats) -->
 
-
+<!-- city_light -->
 ---
 
 
